@@ -1,0 +1,28 @@
+/* <!-- Online Crime Management, Public Servie is a Web Service for public who can easily register their complaint without visiting Police Station.
+Developed By Suraj Bahadur Kumal (Software Engineer and Developer @surajbahadur )
+
+[ Technology used : HTML, CSS(materialedcss) , MYSQL and PHP ]
+[ Independent of Platform ]
+[ Developed on Windows10 ]
+
+Follow  me  on Social media
+Facebook Id : https://www.facebook.com/Suraj.bahadur978
+Youtube Id :https://www.youtube.com/c/SurajBahadur
+Github Link : https://github.com/surajbahadur591 --> */
+
+body, html {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-color: white ;
+    background-image: url(./components/crime.png);
+    background-size: cover;
+    background-position: center;
+    
+}
+.h5-ele {
+    font-size: 75px;;
+    color: black;
+    text-align: center;
+}
