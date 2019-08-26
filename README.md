@@ -11,7 +11,7 @@ This application will actually automate the manual work done at police stations 
 * Blogs or posts module
 * Criminal Info module
 * Employees module
-* Update module
+* Update module.
 
 # Software Requirements
 * Web server : XAMPP
