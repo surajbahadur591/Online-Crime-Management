@@ -1,4 +1,8 @@
 # Online-Crime-Management
+
+>This web application will help people to register complaints online and format the information related to crimes on the daily basics.
+
+
 DEMO FOR MY PROJECTS
 [VIEW HERE](https://surajbahadur591.github.io/demo-project/)
 
